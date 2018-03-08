@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleTimerView">
+        <attr name="circleColor" format="color" />
+        <attr name="circleButtonColor" format="color" />
+        <attr name="lineColor" format="color" />
+        <attr name="highlightLineColor" format="color" />
+        <attr name="numberColor" format="color" />
+        <attr name="timerNumberColor" format="color" />
+        <attr name="timerTextColor" format="color" />
+        <attr name="textSize" format="dimension" />
+        <attr name="textTimeSize" format="dimension" />
+    </declare-styleable>
+</resources>
